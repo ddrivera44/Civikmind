@@ -171,10 +171,10 @@ Ademas la plataforma viene precargada con 50 [plugins](https://plugins.glpi-proj
 
 
 ## Autenticación
-
+ 
 |SAML|CAS|X509|LDAP|SSO|Mail Server|
 |------------ | ------------- |------------ |------------ | ------------- |------------ |
-|[PLugin SAML](https://github.com/derricksmith/phpsaml)|Nativo|Nativo|Nativo|Nativo|Nativo|
+|[PLugin SAML](https://github.com/derricksmith/phpsaml)|Nativo|Nativo|Nativo|Nativo|Nativo|    
 
 ## Citar formato APA
 
